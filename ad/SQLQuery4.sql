@@ -1,0 +1,2 @@
+select * from GROUPS at full outer join PROFESSION PROFESSION
+on GROUPS.FACULTY = PROFESSION.FACULTY;
